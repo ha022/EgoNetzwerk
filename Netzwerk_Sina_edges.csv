@@ -1,0 +1,15 @@
+﻿from;to;weight;relation
+Sina Peller;Vanessa Fass;2;2
+Sina Peller;Christian Jagusch;3;3
+Sina Peller;Bettina Peller;2;4
+Sina Peller;Uwe Peller;2;4
+Uwe Peller;Sina Peller;2;4
+Bettina Peller;Sina Peller;2;4
+Christian Jagusch;Sina Peller;3;3
+Vanessa Fass;Sina Peller;2;2
+Uwe Peller;Bettina Peller;3;3
+Uwe Peller;Christian Jagusch;1;
+Bettina Peller;Christian Jagusch;1;
+Christian Jagusch;Bettina Peller;1;
+Christian Jagusch;Uwe Peller;1;
+Bettina Peller;Uwe Peller;3;3
