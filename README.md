@@ -1,7 +1,6 @@
 # EgoNetzwerk# Ego-Netzwerk
 
 ## Edge-Attribute
-**id:** Identische ID (Abkürzung der Namen)
 
 **from:** initiierender Knoten, in diesem Fall: Über wichtige Themen gesprochen in den letzten sechs Monaten
 
@@ -21,7 +20,7 @@
     4 = related
 
 ## Node-Attribute
-**id:** Identische ID wie aus der edgelist zur Identifikation der Knoten
+**id:** Identische ID (Initialien der Namen)
 
 **name:** ganzer Name des Knotens
 
