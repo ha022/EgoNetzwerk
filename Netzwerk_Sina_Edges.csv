@@ -1,0 +1,15 @@
+id;from;to;weight;relation
+SP;SP;VF;2;2
+SP;SP;CJ;3;3
+SP;SP;BP;2;4
+SP;SP;UP;2;4
+UP;UP;SP;2;4
+BP;BP;SP;2;4
+CJ;CJ;SP;3;3
+VF;VF;SP;2;2
+UP;UP;BP;3;3
+UP;UP;CP;1;
+BP;BP;CP;1;
+CJ;CJ;BP;1;
+CJ;CJ;UP;1;
+BP;BP;UP;3;3
