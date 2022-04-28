@@ -8,8 +8,8 @@ BP,SP,2,2
 CJ,SP,3,3
 VF,SP,2,2
 UP,BP,3,3
-UP,CP,1,	
-BP,CP,1,	
+UP,CJ,1,	
+BP,CJ,1,	
 CJ,BP,1,	
 CJ,UP,1,	
 BP,UP,3,3
